@@ -1,0 +1,8 @@
+                                    ASSIGNMENT-5
+                                    ============
+
+The assignment was very insightful and helped in understanding the OSPF protocol better.
+I faced difficulties in managing the synchronization issues.
+There was a confusion when to stop the routers, so it would have been more clear if it 
+was also mentioned.
+Else, everything went well.
