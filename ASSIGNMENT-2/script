@@ -1,0 +1,54 @@
+Script started on 2023-03-03 22:44:06+05:30 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="102" LINES="6"]
+r_neel_prabhanjan@RACHAMALLA-NEEL-PRABHANJAN: /mnt/e/THIRD YEAR/SEMESTER - 2/INTRODUCTION TO COMPUTER NETWORKS - CS-3205/ASSIGNMENTS/ASSIGNMENT-2[01;32mr_neel_prabhanjan@RACHAMALLA-NEEL-PRABHANJAN[00m:[01;34m/mnt/e/THIRD YEAR/SEMESTER - 2/INTRODUCTION TO COMPUTER NETWORKS - CS-3205/ASSIGNMENTS/ASSIGNMENT-2[00m$ ./lab2-cs20b056 5555 input1.txt
+Enter Server Name: www.bank.com
+DNS Mapping: 202.15.5.1
+
+Enter Server Name: ftp.shop.com
+DNS Mapping: 133.54.5.3
+
+Enter Server Name: smtp.mynah.edu
+DNS Mapping: 198.167.5.2
+
+Enter Server Name: sshd1.brown.edu
+DNS Mapping: 192.13.5.4
+
+Enter Server Name: vpn.cougar.edu
+DNS Mapping: 212.18.55.5
+
+Enter Server Name: fpt.bank.com
+No DNS Record Found
+
+Enter Server Name: vpn.stor.com
+No DNS Record Found
+
+Enter Server Name: ww.shopee.com
+No DNS Record Found
+
+Enter Server Name: vpn.hello.edu
+No DNS Record Found
+
+Enter Server Name: store.vpn.com
+No DNS Record Found
+
+Enter Server Name: com.ftp.shop
+No DNS Record Found
+
+Enter Server Name: smpt.mynah.eu
+No DNS Record Found
+
+Enter Server Name: ssd.brow.com
+No DNS Record Found
+
+Enter Server Name: random.server
+No DNS Record Found
+
+Enter Server Name: randomserver
+No DNS Record Found
+
+Enter Server Name: bye
+All Server Processes are killed. Exiting.
+
+r_neel_prabhanjan@RACHAMALLA-NEEL-PRABHANJAN: /mnt/e/THIRD YEAR/SEMESTER - 2/INTRODUCTION TO COMPUTER NETWORKS - CS-3205/ASSIGNMENTS/ASSIGNMENT-2[01;32mr_neel_prabhanjan@RACHAMALLA-NEEL-PRABHANJAN[00m:[01;34m/mnt/e/THIRD YEAR/SEMESTER - 2/INTRODUCTION TO COMPUTER NETWORKS - CS-3205/ASSIGNMENTS/ASSIGNMENT-2[00m$ exit
+exit
+
+Script done on 2023-03-03 22:46:22+05:30 [COMMAND_EXIT_CODE="0"]

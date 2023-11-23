@@ -1,0 +1,48 @@
+BEGIN_DATA
+NR 198.162.1.1
+RDS 198.162.1.2
+TDS_com 198.162.1.3
+TDS_edu 198.162.1.4
+ADS1 198.162.1.5
+ADS2 198.162.1.6
+ADS3 198.162.1.7
+ADS4 198.162.1.8
+ADS5 198.162.1.9
+ADS6 198.162.1.10
+List_of_ADS1
+www.abank.com 202.15.5.1
+smtp.abank.com 202.15.5.2
+ftp.abank.com 202.15.5.3
+sshd1.abank.com 202.15.5.4
+vpn.abank.com 202.15.5.5
+List_of_ADS2
+www.bbank.com 202.15.5.1
+smtp.bbank.com 202.15.5.2
+ftp.bbank.com 202.15.5.3
+sshd1.bbank.com 202.15.5.4
+vpn.bbank.com 202.15.5.5
+List_of_ADS3
+www.cbank.com 202.15.5.1
+smtp.cbank.com 202.15.5.2
+ftp.cbank.com 202.15.5.3
+sshd1.cbank.com 202.15.5.4
+vpn.cbank.com 202.15.5.5
+List_of_ADS4
+www.green.edu 192.13.5.1
+smtp.green.edu 192.13.5.2
+ftp.green.edu 192.13.5.3
+sshd1.green.edu 192.13.5.4
+vpn.green.edu 192.13.5.5
+List_of_ADS5
+www.blue.edu 192.13.5.1
+smtp.blue.edu 192.13.5.2
+ftp.blue.edu 192.13.5.3
+sshd1.blue.edu 192.13.5.4
+vpn.blue.edu 192.13.5.5
+List_of_ADS6
+www.red.edu 192.13.5.1
+smtp.red.edu 192.13.5.2
+ftp.red.edu 192.13.5.3
+sshd1.red.edu 192.13.5.4
+vpn.red.edu 192.13.5.5
+END_DATA

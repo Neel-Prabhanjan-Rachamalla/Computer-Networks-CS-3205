@@ -1,0 +1,2 @@
+QUERY :- www.bank.com
+RESPONSE :- 127.0.0.1 5612

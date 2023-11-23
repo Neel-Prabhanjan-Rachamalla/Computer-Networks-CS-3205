@@ -1,0 +1,12 @@
+                        CS-3205 ASSIGNMENT-2
+                        ====================
+
+This Assignment was indeed a very good implementation of the real DNS query system which
+gave a true insight of what exactly happens in Iterative DNS Query System.
+
+While doing the assignment , one of the problem I faced is while considering different
+Ip Addresses for different servers which wasnt working for me. Then , I came to know that
+running a server on remote machine can be done by a system call such as "system("ssh 10.6.15.92 Lab2/rds startportnum inputfile")".
+However , I didnt implement it , I used 'localhost' for all the servers.
+
+Overall , everything went fine with the assignment !
